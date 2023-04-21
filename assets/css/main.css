@@ -3986,3 +3986,12 @@ input, select, textarea {
 			width: 40rem;
 			position: relative;
 		}
+
+		.gif {
+			position: absolute;
+			background:white;
+		}
+
+		.gif:hover {
+			opacity: 0;
+		}
