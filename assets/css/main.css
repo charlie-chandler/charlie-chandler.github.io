@@ -3978,3 +3978,11 @@ input, select, textarea {
 		#mojo-container {
 			width: 40%;
 		}
+
+		.img-wrapper {
+			display: inline-block;
+			overflow: hidden;
+			height: 41rem;
+			width: 40rem;
+			position: relative;
+		}
