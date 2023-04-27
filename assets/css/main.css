@@ -3979,13 +3979,13 @@ input, select, textarea {
 			width: 40%;
 		}
 
-		/* .img-wrapper {
+		.img-wrapper {
 			display: inline-block;
 			overflow: hidden;
 			height: 41rem;
 			width: 40rem;
 			position: relative;
-		} */
+		}
 
 		.gif {
 			position: absolute;
