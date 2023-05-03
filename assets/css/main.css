@@ -3996,8 +3996,37 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		#banner .major h1 {
+			color: #f7e7cb;
+		}
+
+		#banner .inner {
+			margin: 0 0 0 4rem;
+		}
+
+		#banner .photo-container {
+			display: flex;
+			margin: 0 18rem 0 0;	
+		}
+
+		#banner .photo-container .headshot {
+			z-index: 100;
+			border-radius: 10%;	
+		}
 
 		/* Skills section */
+
+		.skills-title h4 {
+			color: #f7e7cb;
+			/* width: fit-content;
+			height: 3rem;
+			padding: 0.2rem 0.5rem 0 0.5rem;
+
+			border: white;
+			border-style: solid;
+			border-radius: 20%;
+			border-color: white; */
+		}
 
 		.skill-box {
 			display: flex;
