@@ -3995,3 +3995,28 @@ input, select, textarea {
 		.gif:hover {
 			opacity: 0;
 		}
+
+
+		/* Skills section */
+
+		.skill-box {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.skill-container {
+			display: flex;
+			flex-direction: row;
+			margin: 0 0 1.5rem 0;
+		}
+
+		.skill-icon {
+			height: 3rem;
+			width: 3rem;
+			margin: 1rem;
+
+		}
+
+
