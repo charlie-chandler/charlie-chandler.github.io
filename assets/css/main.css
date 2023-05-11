@@ -3951,29 +3951,6 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-		/* .site_description:hover p, .site_description:hover a {
-			color: transparent !important;
-		} */
-
-		/* #mojo {
-			display: block;
-			width: 100%;
-			height: 0;
-			padding-bottom: 56.25%;
-			background-image: url('../../images/pic02.jpg');
-			background-size: cover;
-			background-position: center;
-		}
-
-		#mojo:hover {
-			display: block;
-			width: 100%;
-			height: 0;
-			padding-bottom: 56.25%;
-			background-image: url('../../images/mojo-home.png');
-			background-size: cover;
-			background-position: center;
-		} */
 
 		#mojo-container {
 			width: 40%;
@@ -4063,7 +4040,27 @@ input, select, textarea {
 			height: 3rem;
 			width: 3rem;
 			margin: 1rem;
-
 		}
 
+		/* Contact section */
 
+		.about-me {
+			text-align: center;
+		}
+
+		#contact-column {
+			padding-top: 1rem;
+		}
+
+		#contact-para {
+			text-align: center;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.div-gif {
+			height: 20rem;
+			width: 28rem;
+			border-radius: 10%;
+		}
