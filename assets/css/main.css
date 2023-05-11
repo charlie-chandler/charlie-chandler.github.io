@@ -4014,31 +4014,36 @@ input, select, textarea {
 			border-radius: 10%;	
 		}
 
+		/* Gif section */
+
 		#gif-container .image {
-			/* margin: 1.5rem 1.5rem 1.5rem 1.5rem; */
 			margin: 2% 2% 2% 2%;
 		}
 
-		#mojo_landing {
-			height: 428px;
+		#mojo-img {
+			height: 27.5rem;
+			width: 37rem;
 		}
 
-		#jungle_gif {
-			height: 306px;
+		#mojo-gif {
+			height: 27.5rem;
+			width: 37rem;
+		}
+
+		#jungle-img {
+			height: 18rem;
+			width: 32rem;
+		}
+
+		#jungle-gif {
+			height: 18rem;
+			width: 32rem;
 		}
 
 		/* Skills section */
 
 		.skills-title h4 {
 			color: #f7e7cb;
-			/* width: fit-content;
-			height: 3rem;
-			padding: 0.2rem 0.5rem 0 0.5rem;
-
-			border: white;
-			border-style: solid;
-			border-radius: 20%;
-			border-color: white; */
 		}
 
 		.skill-box {
