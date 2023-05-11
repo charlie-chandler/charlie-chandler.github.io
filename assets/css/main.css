@@ -4014,6 +4014,19 @@ input, select, textarea {
 			border-radius: 10%;	
 		}
 
+		#gif-container .image {
+			/* margin: 1.5rem 1.5rem 1.5rem 1.5rem; */
+			margin: 2% 2% 2% 2%;
+		}
+
+		#mojo_landing {
+			height: 428px;
+		}
+
+		#jungle_gif {
+			height: 306px;
+		}
+
 		/* Skills section */
 
 		.skills-title h4 {
